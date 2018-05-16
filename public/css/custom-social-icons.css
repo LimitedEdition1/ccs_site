@@ -1,0 +1,37 @@
+.facebook, .twitter, .instagram, .youtube, .github, .linkedin, .googleplus, .email, .pinterest {
+  fill: #BABABA;
+}
+.facebook:hover {
+  fill: #3b5998;
+}
+
+.twitter:hover {
+  fill: #1da1f2;
+}
+
+.instagram:hover {
+  fill: #e1306c;
+}
+
+.youtube:hover {
+  fill: #cd201f;
+}
+
+.github:hover {
+  fill: #6cc644;
+}
+
+.linkedin:hover {
+  fill: #0077b5
+}
+
+.googleplus:hover {
+  fill: #f1de2e
+}
+
+.email:hover {
+  fill: #b3d8e9
+}
+.pinterest:hover {
+  fill: #9b0e0e
+}
