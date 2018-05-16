@@ -12,9 +12,9 @@
   </a>
 {{ end }}
 {{ with .Param "instagram" }}
-    <a href="{{ . }}" class="link-transition instagram link dib z-999 pt3 pt0-l mr2" title="Instagram link">
-        {{ partial "svg/instagram.svg" (dict "size" $icon_size) }}
-    </a>
+  <a href="{{ . }}" class="link-transition instagram link dib z-999 pt3 pt0-l mr2" title="Instagram link">
+      {{ partial "svg/instagram.svg" (dict "size" $icon_size) }}
+  </a>
 {{ end }}
 {{ with .Param "youtube" }}
   <a href="{{ . }}" class="link-transition youtube link dib z-999 pt3 pt0-l mr2" title="Youtube link">
@@ -29,5 +29,20 @@
 {{ with .Param "github" }}
   <a href="{{ . }}" class="link-transition github link dib z-999 pt3 pt0-l mr2" title="Github link">
     {{ partial "svg/github.svg" (dict "size" $icon_size) }}
+  </a>
+{{ end }}
+{{ with .Param "googleplus" }}
+  <a href="{{ . }}" class="link-transition googleplus link dib z-999 pt3 pt0-l mr2" title="Google+ link">
+    {{ partial "svg/googleplus.svg" (dict "size" $icon_size) }}
+  </a>
+{{ end }}
+{{ with .Param "email" }}
+  <a href="{{ . }}" class="link-transition email link dib z-999 pt3 pt0-l mr2" title="Email link">
+    {{ partial "svg/email.svg" (dict "size" $icon_size) }}
+  </a>
+{{ end }}
+{{ with .Param "pinterest" }}
+  <a href="{{ . }}" class="link-transition pinterest link dib z-999 pt3 pt0-l mr2" title="Email link">
+    {{ partial "svg/pinterest.svg" (dict "size" $icon_size) }}
   </a>
 {{ end }}

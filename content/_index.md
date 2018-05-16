@@ -1,11 +1,10 @@
 ---
 title: "SWEELEY"
 featured_image: '/images/beach.jpg'
-description: "Charles and Christopher"
+description: "Welcome to our landing page."
 linkedin: ""
 instagram: ""
 twitter: ""
 github: ""
 ---
-Welcome to our landing page. <br>
-Hugo (ananke) > GitHub > Netlify
+Built with: Hugo (ananke) > GitHub > Netlify
