@@ -18,7 +18,7 @@ enableRobotsTXT = true
 
 [params]
   favicon = ""
-  custom_css = ["css/custom-social-icons.css"]
+  custom_css = ["./css/custom-social-icons.css"]
   description = "The last theme you'll ever need. Maybe."
   #facebook = ""
   #twitter = ""
