@@ -7,6 +7,7 @@ instagram: "https://instagram.com/ccsweeley"
 github: "https://github.com/LimitedEdition1"
 linkedin: "https://www.linkedin.com/in/chris-sweeley-14898728/"
 email: "mailto://sweeley@gmail.com"
+googleplus: "https://plus.google.com/u/0/+CharlesSweeley"
 ---
 
 {{< figure src="/images/ccs_pic2.jpg" title="" >}}
