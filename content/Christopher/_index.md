@@ -1,6 +1,6 @@
 ---
 title: "Christopher"
-description: "I'm a student at Michigan State University, studying media and information."
+description: "I'm a graduate of Michigan State University, with a major in media and information."
 featured_image: '/images/spartan_stadium.jpg'
 instagram: "https://instagram.com/cschweelz"
 #instagram: false
