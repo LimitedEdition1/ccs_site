@@ -10,4 +10,3 @@ instagram: "https://instagram.com/ccsweeley"
 #googleplus: "https://plus.google.com/u/0/+CharlesSweeley"
 ---
 
-{{< figure src="/images/ccs_pic2.jpg" title="" >}}
