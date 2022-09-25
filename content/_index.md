@@ -7,4 +7,4 @@ instagram: ""
 twitter: ""
 github: ""
 ---
-Built with: Hugo (ananke) > GitHub > Netlify
+Built with: Hugo (ananke) > Netlify
